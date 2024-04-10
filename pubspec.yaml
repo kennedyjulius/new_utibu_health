@@ -36,13 +36,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_easyloading: ^3.0.5
-  
   get: ^4.6.6
-  
   google_nav_bar: ^5.0.6
   google_sign_in: ^6.2.1
   introduction_screen: ^3.1.14
   local_auth: ^2.2.0
+  mpesa_flutter_plugin: ^1.6.1
   shared_preferences: ^2.2.2
   sign_button: ^2.0.6
   smooth_page_indicator: ^1.1.0
@@ -62,7 +61,7 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
-      - assets/
+    - assets/
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
